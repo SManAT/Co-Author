@@ -1,0 +1,8 @@
+{
+  "showUnsupportedFiles": false,
+  "userIgnoreFilters": [
+    "/.*\\.(bak|BAK)/",
+    "/.*\\.(ps1)/",
+    "/LICENSE/"
+  ]
+}

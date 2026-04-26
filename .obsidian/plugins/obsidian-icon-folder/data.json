@@ -1,0 +1,54 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiFolder",
+      "FabMarkdown",
+      "LiBadgeCheck"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": ".*\\.md",
+        "icon": "FabMarkdown",
+        "for": "everything",
+        "order": 0,
+        "color": "#8c8cf0"
+      },
+      {
+        "rule": ".*\\.txt",
+        "icon": "LiNotepadText",
+        "for": "everything",
+        "order": 1,
+        "color": "#8c8cf0"
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "test": {
+    "iconName": "LiFolder",
+    "iconColor": "#f35858"
+  }
+}
