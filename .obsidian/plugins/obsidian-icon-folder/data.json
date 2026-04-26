@@ -25,6 +25,13 @@
         "for": "everything",
         "order": 1,
         "color": "#8c8cf0"
+      },
+      {
+        "rule": ".*\\.(docx|doc)",
+        "icon": "LiFileText",
+        "for": "everything",
+        "order": 2,
+        "color": "#8c8cf0"
       }
     ],
     "extraMargin": {
@@ -33,8 +40,8 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
-    "iconInTitleEnabled": false,
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
     "iconInTitlePosition": "above",
     "iconInFrontmatterEnabled": false,
     "iconInFrontmatterFieldName": "icon",
@@ -46,9 +53,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "test": {
-    "iconName": "LiFolder",
-    "iconColor": "#f35858"
   }
 }
