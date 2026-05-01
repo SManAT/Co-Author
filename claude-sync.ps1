@@ -33,7 +33,7 @@ param(
 
 # Your GitHub Personal Access Token (PAT)
 # Create at: https://github.com/settings/tokens
-$PAT = "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"
+$PAT = "github_pat_XXXXXX"
 
 # Your GitHub username
 $USERNAME = "SManAT"
